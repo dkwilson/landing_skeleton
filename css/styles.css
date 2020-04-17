@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#navBtn{
+    margin-top: 10px;
+}
+
+.logo {
+    font-size: 3rem;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.masthead {
+    background: url('../images/masthead.png') no-repeat center;
+    height: 462px;
+    background-size: cover;
+}
+
+.rewardingContent {
+    margin-top: 10px;
+}
+
+.rewardingImg {
+    width: 75%;
+    margin: 0 auto; 
+    display: block;
+}
+
+.rewardingContent, .hiredContent, .workEfficiency, .getPaid {
+    margin-top: 10px;
+}
+
+.rewardingImg, .hiringImg, .messagingImg, .paidImg {
+    width: 75%;
+    margin: 0 auto;
+    display: block;
+}
+
+.footer{
+    padding: 10px;
+    margin: 15px;
+    background: #f8f8f8
+}
